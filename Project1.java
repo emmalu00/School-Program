@@ -3,8 +3,10 @@
 * Project1.java
 * Emma Lucas
 *
-* <COMPLETE description of the project (at least 3 or 4 sentences) – i.e. What does the program do?
-Must be detailed enough so outside reader of your code can determine the specifics of the program>
+* The first part of this program calculates the grade percentage of the 
+* user based off 3 project scores and two exam scores. The second part 
+* of the program calculates the number of pizzas needed for a pizza party
+* and the number of slices leftover.
 */
 
 import java.util.*;
