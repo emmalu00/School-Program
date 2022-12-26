@@ -1,1 +1,2 @@
 # School-Program
+This program contains one class which has two parts. The first part calculates the user’s overall grade percentage in a class based on 3 project scores, a midterm exam, and a final exam. Projects are worth 30 points each. The Midterm and Final are 100 points each. The second part determines how many X-Large pizzas to order for a Computer Science Gaming Club party as well as how many slices will be left over, assuming everyone eats 2 slices.
